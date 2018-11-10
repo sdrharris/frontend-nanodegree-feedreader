@@ -25,6 +25,6 @@ This project is a web-based application that reads RSS feeds. This project tests
 
 ## View the Online Version Here
 
-http://sdrharris.github.io/frontend-nanodegree-feedreader/
+http://sdrharris.github.com/frontend-nanodegree-feedreader/
 
 
