@@ -95,8 +95,7 @@ $(function() {
     describe('New Feed Selection', function() { 
         var firstFeed; // first feed content empty array variable
 
-        /* Loading the 2 different feeds.
-         */
+        /* Loading the 2 different feeds. Asynchronous funtion         */
         beforeEach(function(done) {
             loadFeed(0, function() {
                 firstFeed = $('.feed').html(); // store firstFeed
